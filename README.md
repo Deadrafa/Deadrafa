@@ -57,7 +57,7 @@
 > 🛠️ GigaChat · REST · Docker · Makefile
 
 #### 📅 [J.A.R.V.I.S-calendarService](https://github.com/Deadrafa/J.A.R.V.I.S-calendarService)
-> Микросервис событий с REST/gRPC API, авторизацией и PostgreSQL  
+> Микросервис событий с REST API
 
 ---
 
