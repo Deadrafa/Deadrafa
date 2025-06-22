@@ -64,6 +64,8 @@
 ### 🧠 Leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Deadrafa)
 
+---
+
 ### 📫 Контакты
 
 - 📬 Email: [daniil_moskvin_05@mail.ru](mailto:daniil_moskvin_05@mail.ru)  
